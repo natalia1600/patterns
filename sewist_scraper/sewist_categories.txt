@@ -1,0 +1,540 @@
+Dress
+Top
+Skirt
+Pants
+Jumpsuits
+Lingerie
+Dress
+Straight skirt
+Dress with waist seam
+No front closure
+No collar
+Jewel neckline
+Regular armholes
+Micro length
+Semi-fitted
+Dress
+Front shoulder and waist darts
+Front armhole and waist darts
+Front neck and waist darts
+Front neck top and waist darts
+Front shoulder end and waist darts
+Front neck center and waist darts
+Front french and waist darts
+Front neck top and waist center darts
+Front armhole and waist center darts
+Front french and waist center darts
+Front neck and waist center darts
+Front neck center and waist center darts
+Front shoulder end and waist center darts
+Front shoulder and waist side darts
+Front shoulder end and waist side darts
+Front neck and waist side darts
+Front armhole and waist side darts
+Front neck center and waist side darts
+Front neck top and waist side darts
+Front neck top and french darts
+Front neck center and french darts
+Front armhole and french dart
+Front horizontal and waist darts
+All front darts transferred to horizontal dart
+All front darts transferred to armhole
+All front darts transferred to french dart
+All front darts transferred to neck center
+All front darts transferred to neck top
+All front darts transferred to neckline
+All front darts transferred to shoulder
+All front darts transferred to shoulder end
+All front darts transferred to waist center
+All front darts transferred to waist dart
+All front darts transferred to waist side
+Front horizontal and waist center darts
+Princess front seam: shoulder to waist
+Princess front seam: upper armhole to waist
+Princess front seam: armhole to waist
+Princess front seam: neck to waist
+Princess front seam: shoulder end to waist
+Princess front seam: neck top to waist
+Princess front seam: neck center to waist
+Princess front seam: shoulder to waist center
+Princess front seam: upper armhole to center waist
+Princess front seam: armhole to waist center
+Princess front seam: neck to waist center
+Princess front seam: shoulder end to waist center
+Princess front seam: neck top to waist center
+Princess front seam: neck center to waist center
+Princess front seam: shoulder to waist side
+Princess front seam: upper armhole to side waist
+Princess front seam: armhole to waist side
+Princess front seam: neck to waist side
+Princess front seam: shoulder end to waist side
+Princess front seam: neck top to waist side
+Princess front seam: neck center to waist side
+Princess front seam: shoulder to side seam
+Princess front seam: neck to side seam
+Princess front seam: shoulder end to side seam
+Princess front seam: neck top to side seam
+Princess front seam: neck center to side seam
+Princess front seam: shoulder to waist with flounce
+Princess front seam: shoulder end to waist with flounce
+Princess front seam: shoulder end to waist center with flounce
+Princess front seam: shoulder to waist center with flounce
+Front design: darts options
+Front design: princess seams
+Front design: Sewist ♥ exclusive
+5-corner pocket with central pleat
+Cloud-shaped 1-piece flap
+Crescent pocket with 1-piece flap
+Diamond pocket with sharp flap
+Gathered pocket with 1-piece ruche
+Gathered pocket with top facing
+On-hip patch pockets
+On-hip pockets with trimmed corner
+Origami pocket
+Patch pocket with trimmed corners
+Petal Pocket with Facings
+Petal patch pockets
+Pleated patch pocket with rectangular flap
+Pleated pocket with rounded flap
+Pocket with shaped 1-piece flap
+Pocket with slanted folds
+Pocket with triple pleats
+Pockets with curved 1-piece flap
+Round pocket with round opening
+Slanted opening and 1-piece flap
+Rectangular patch pockets
+Patch pockets with rounded edges
+Patch pocket with rounded lower edge
+Patch pockets with sharp lower corner
+Straight skirt with flared peplum
+Straight skirt
+Straight skirt with patch pockets
+Straight skirt with peplum
+Straight skirt with waist seam and center darts
+Straight skirt with waist seam and side darts
+Straight skirt with waist seam and pocket darts
+Straight skirt with waist seam and slanted darts
+Pencil skirt
+Skirt with on-seam / front-hip pockets
+Waist seam, princess skirt
+Princess skirt side waist to mid hem
+Straight skirt with side insets
+Princess skirt center waist to middle hem
+Princess skirt center waist to side hem
+Princess skirt side waist to center hem
+Princess skirt side waist to side seam
+Princess skirt center waist to center seam
+Straight skirt with center inset
+Straight skirt with peplum insets
+Straight skirt with geometric insets
+Waist seam, A-line skirt
+6-panel skirt
+A-line skirt with center pleat
+A-line skirt with patch pockets
+Waist seam, godet skirt
+A-line skirt with box pleats
+A-line skirt with 2 pleats
+8-panel skirt with box pleats
+8-panel skirt
+Pleated skirt
+Gathered skirt
+Gathered skirt with patch pockets
+Tulip skirt with gathers on the sides
+Skirt with gathers on the sides
+A-line skirt with gathered flounce
+A-line skirt with gathered flounce at hem
+2-tiered skirt
+3-Tiered skirt
+Circular skirt
+Circular skirt with patch pockets
+Semi circular skirt
+Semi circle skirt with patch pockets
+1/3 circle skirt
+1/3 circle 6 panel skirt
+1/3 circle 6 panel skirt with two pleats
+Circle 6 panel skirt with pleats
+1/2 circle 6 panel skirt
+1/3 circle skirt with patch pockets
+Circular skirt with straight flounce
+High-low skirts (choose flare and back length on next step)
+No waist seam, straight skirt
+No waist seam, A-line dress
+No waist seam, 6-panel skirt
+No waist seam, full circle panel skirt
+No waist seam, godet skirt
+No waist seam, panel godet skirt
+No waist seam, half circle panel skirt
+Straight yoke at midhip
+Straight yoke at hip
+Curved yoke at midhip
+Straight skirt with curved yoke
+Straight skirt with geometric yoke
+Straight skirt with yoke and darts
+Back design: darts options
+Back design: princess seams
+Diagonal darts
+Slightly curved dart
+Curved darts
+Curved dart shifted to center
+Slanted darts
+Geometric darts
+Horizontal darts
+Hem darts
+Sharp corner darts
+Front princess seam from armhole to side hip
+Front princess seam from shoulder to side hip
+Princess seams from armhole to side hip and darts
+Side insets with center slanted dart
+Side insets with slanted pockets
+Inset with shoulder princess seam
+High waist seam, straight skirt
+High waist seam, A-line dress with darts
+High waist seam, trapeze skirt
+High waist seam, princess skirt
+High waist seam, 6-panel skirt
+High waist seam, godet skirt
+Pleated skirt with high waist seam
+8-panel skirt with high waist seam
+High waist half circle panel skirt
+1/3 circle 6 panel skirt with pleats
+High fitted waist full circle panel skirt
+High fitted waist half circle panel skirt
+High waist full circle panel skirt
+Plain skirt
+Skirt with patch pockets
+Color blocking with pockets
+Hip seam with pockets
+Rounded hem at side seams
+Gathered skirt at high waist
+Gathered skirt at waist
+2-tiered skirt at waist
+3-tiered skirt at high waist
+1/3 circle skirt at waist
+1/3 circle skirt at high waist
+Gathered skirt at low waist
+Flared skirt
+Hem flounce
+Shaped waist seam
+Side flounce insets
+Side pleated insets
+Dress with waist seam
+Dress without waist seam
+Dress with skirt with yoke
+French darts
+Side insets
+High waist dress
+Dress with shaped high waist seam
+Dress with empire waist
+A-line dress
+Dress with waistband
+Dress with waist inset
+Dress with high waist inset
+Dress with high waist shaped inset
+Dress with shaped waist seam
+Shift dress
+Trapeze Dress
+Chemise (straightened side seams)
+Tent Dress
+Tunic dress (no darts, straight side seams)
+Cocoon Dress
+Boho Cocoon Dress
+Drop waist dress
+No front closure
+Button closure neckline to hem
+Button closure neck to waist
+Closure from neckline to hem with folded placket
+Polo button placket
+Front center zipper
+Front center seam
+No collar
+Peter Pan collar
+1/2 Peter Pan collar
+Notched Peter Pan Collar
+Peter Pan collar with straight corners
+Wide Peter Pan collar with straight corners
+Flounce collar
+Puritan collar
+Stand collar
+Puritan collar 2
+Wide flounce collar
+Mandarin collar
+Butterfly collar
+Collar with 3 pleats
+Reverse Butterfly Collar
+Maple leaf collar
+Dragon Wings Collar
+Pointed collar with stand
+Overlay Cape
+Wrapped small stand collar
+Collar with petals
+Wing collar
+Hood
+Small folded collar
+Small pagoda collar
+Asymmetrical collar
+Wide pagoda collar
+Jacket style collar with standard lapel
+Jacket style collar with high lapel
+Jacket style collar with shaped lapel
+Jacket style collar with rounded lapel
+Stand notched collar
+Shawl collar
+No collar for plunging neckline
+Jewel neckline
+Geometric Jewel Neckline
+Tight neckline
+Heart jewel neckline
+Rounded V-neckline
+Jewel heart neckline
+Round neckline
+Deep round neckline
+Scoop neckline
+Bateau neckline
+Scalloped bateau neckline
+Bateau neckline with notches
+Round neckline with 5 scallops
+Modest bateau heart neckline
+Modest bateau
+Sabrina neckline
+Sabrina heart neckline
+V bateau neckline
+Sweetheart neckline
+Wedge shaped neckline
+Wedge shaped deep neckline
+Décolleté
+Star neckline
+Neckline with rounded slit
+Scoop neckline with pointed corner
+Sweetheart bateau neckline
+Geometric bateau
+Geometric Sabrina neckline
+Geometric sweetheart bateau neckline
+U-neckline
+Square neckline
+Horseshoe neckline
+Horseshoe heart neckline
+Deep horseshoe neckline
+V-neckline
+Wide V-neckline
+Plunging neckline
+Wide plunging neckline
+Plunging neckline to waist
+Plunging sweetheart neckline to waist
+Seashell neckline
+Deep seashell neckline
+Heart bateau neckline
+Grace neckline
+Plunging heart bateau neckline
+Queen Anne neckline
+Comfy Queen Anne neckline
+Queen Anne scalloped neckline
+Wingspread neckline
+Geometric Scoop Neckline
+Wide square neckline
+Wide square neckline with rounded corners
+Jewel neckline with narrow slit
+Slot neckline
+Modest bateau V neckline
+Jewel V neckline
+Slot Bateau
+Keyhole neckline
+Teardrop bateau neckline
+Teardrop jewel neckline
+Tight buttoned teardrop neckline
+Preview pattern
+Back shoulder and waist dart
+Back design: darts
+Jasket style with shaped lapel
+Large plunging neckline
+Oversized jacket style collar
+Jacket style collar with shaped curved lapel
+Straight skirt with round yoke
+Pleated skirt with waist seam
+Dress with yoke
+High waist dress wrap
+Regular V wrap
+Regular V wrap with high collar
+Rounded wrap
+Scalloped wrap
+Jewel wrap with straight corner
+Jewel wrap with rounded corner
+Jewel wrap with slanted corner
+Jewel wrap neckline with slot
+Low-cut V wrap
+Comfy neckline regular wrap
+Comfy neckline wrap with straight corner
+Comfy wrap neckline with rounded corner
+Comfy neckline wrap with slanted corner
+Comfy neckline with slot
+Comfy neckline low-cut wrap
+Bateau neckline regular V-wrap
+Bateau neckline wrap with straight corner
+Bateau neckline wrap with rounded corner
+Bateau neckline wrap with slanted corner
+Bateau neckline wrap with slot
+Bateau neckline low-cut V-wrap
+Sweetheart Wrap
+Decollette wrap
+V-neckline with cut out slots
+1-piece wing sleeves
+Retro dropped sleeve
+Straight 1-piece sleeves, elbow length
+1-piece wing sleeves with flounce
+Classic back
+Jewel neckline / 1/3 shoulder
+Facing collar along the upper edge
+No top decoration
+Straight top edge
+Sweetheart top edge
+V-shaped top edge
+Smooth top edge
+V decollete
+High straight edge
+Deep decollete
+Square neckline with straps
+Straight wide top
+Back teardrop neckline
+Back with opening
+Back with opening and slanted inset
+Back with slanted inset and opening
+Back with slanted yoke and opening
+Origami back
+Sewist ♥ back: gathers along waist
+Back design: Sewist ♥ exclusive
+Kaya
+Amelia
+Brigitte
+Ember
+Ingrid
+Kaylin
+Kristen
+Martha
+Elza
+Madeleine
+Curved darts across front
+Agnes
+Alondra
+Pleats A
+Sherlyn
+Willow
+Wrap Pleats
+Pleats B
+Pleats C
+Bow A
+Cowl yoke
+Cowl neck
+Alla
+Asymmetrical wrap with fly piece
+Denise
+Front reverse wrap and gathers at neckline
+Insets
+Asymmetrical Fronts
+Asymmetrical pleats
+Bows
+Cowl necks
+Gathers, wraps and twists
+Waist seam, straight skirt
+Waist seam, 6-panel skirt
+Waist seam, A-line skirt with center pleat
+8-panel skirt with waist seam
+Classical 1-shoulder neckline
+Straight classical 1-shoulder neckline
+Straight top + classical straight 1-shoulder neckline
+Straight top + classical 1-shoulder neckline
+Sweetheart edge + classical 1-shoulder neckline
+Sweetheart edge + straight classical 1-shoulder neckline
+Bateau 1-shoulder neckline
+Straight bateau 1-shoulder neckline
+Straight top + bateau straight 1-shoulder neckline
+Straight top + bateau 1-shoulder neckline
+Sweetheart edge + bateau 1-shoulder neckline
+Sweetheart neckline + straight bateau 1-shoulder neckline
+Open shoulder neckline
+Straight open shoulder neckline
+Straight top + straight open shoulder neckline
+Straight top + open shoulder neckline
+Sweetheart edge + open shoulder neckline
+Sweetheart edge + straight open shoulder neckline
+Regular armholes
+Raglan sleeves
+Wrap dress
+1-piece sleeves
+Halter dresses
+Dress with straps
+Creative dresses with set-in sleeves
+1-shoulder dresses, regular armholes
+Alya
+Arden (knee/midi)
+Bertha skirt
+Butterfly skirt
+Darcie (below knee)
+Destiney (maxi/ankle length)
+Elodie (above knee/knee/midi length)
+Futura (midi)
+Indie
+Iva (knee length)
+Kaelynn
+Laura (below knee)
+Leona (midi)
+Malena (maxi)
+Margaret (knee length)
+Mia (knee length)
+Nola
+Novalee
+Skirt with asymmetrical wrap
+Strait skirt with wrap
+Straight skirt with wrap effect and rounded hem
+A-line skirt with wrap
+1/3 circle skirt with wrap
+Micro length
+Mini length
+Short length
+Above knee length
+Knee length
+Below knee length
+Midi length
+Maxi length
+Tea length
+Ankle length
+Full length
+Design skirts
+Semi-fitted
+Fitted
+Oversize fit❗
+Bodycon (knit fabrics!)
+Asymmetrical fronts
+Straight hem
+Creative tops with set-in sleeves
+Comfortable length
+Mid-hip length
+Hip length
+Below hip length
+Waist length
+Above waist length
+Oversize fit
+Bodycon (knit fabrics only!)
+Straight pants
+Tapered pants
+Flared pants
+Godet pants
+Wide leg pants
+Palazzo pants
+Semi circular pants
+Circular pants
+Banana pants
+Peg legs pants
+Breeches
+Harem pants
+Bloomers
+Knit pants
+Classical briefs
+Control briefs
+High cut briefs
+Tanga briefs
+Briefs
+Dress
+Top
+Skirt
+Pants
+Jumpsuits
+Lingerie
