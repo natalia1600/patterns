@@ -1,6 +1,8 @@
 # Patterns 
 Natalia Ramirez & Amy Huang 
+
 Project Plan document: https://docs.google.com/document/d/1z4kTiIvxR5HvAZ5yX-v8p3HKLVewN0TDOl8PznhpFf8/edit 
+
 Meeting Notes: https://docs.google.com/document/d/1SkW1GWWwjiyWRITAeb_gcO0aCxZajZxVPz689G4asT0/edit
 
 ## Code style guide 
